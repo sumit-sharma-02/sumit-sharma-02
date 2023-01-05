@@ -92,8 +92,7 @@
 <!----------------------------------- Support Section ------------------------------------>
 <h2 align="center">
     Support me
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210718068-0b63b270-1563-45c0-801f-d666721c5d5c.png" width="30" />  
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
     <a/>
 </h2>
 <p align="center">
