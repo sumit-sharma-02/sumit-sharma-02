@@ -8,12 +8,20 @@
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
-<h4 align="center">
+<h3 align="center">
     ⦿ &nbsp;&nbsp;I'm a Full Stack Web Developer who has worked in both MERN and MEAN stack. I love to code in best ways possible.
-</h4>
-<h4 align="center">
+</h3>
+<h3 align="center">
     ⦿ &nbsp;&nbsp;Currently working at Infosys as Operations Executive.
-</h4>
+</h3>
+    <p align="center">
+      <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
+        <img src="https://komarev.com/ghpvc/?username=sumit-sharma-02&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+      </a>
+      <a href="https://stackoverflow.com/users/17976599/">
+        <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17976599?style=for-the-badge&logo=stackoverflow&logoColor=orange&color=orange&label=Stack+Overflow">
+      </a>
+    </p>
 <br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
