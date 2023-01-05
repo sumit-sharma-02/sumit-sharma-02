@@ -1,7 +1,10 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi! <img src="https://user-images.githubusercontent.com/52236473/210699162-fc0b3c17-de69-43bf-a66f-69fe4a9e0999.png" width="30">
-    I'm Sumit Sharma <img src="" width="30">
+    I'm Sumit Sharma 
+    <a> 
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210713338-1402a455-7c8d-47af-b79d-2597b7a7b1bd.png" width="30">
+    </a>
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
@@ -14,7 +17,12 @@
 <br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">
+    My Tech Stack
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
+    <a/>
+</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs" />
@@ -41,7 +49,13 @@
 <br>
 
 <!----------------------------------- Project Section ------------------------------------>
-<h2 align="center">My Projects</h2>
+
+<h2 align="center">
+    My Projects
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210715023-0f03194b-fc67-46e8-af2f-209816fa820b.png" width="45" />   
+    <a/>
+</h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Crafty Commerce&color=E02746&logo=stencyl&logoColor=FFFFFF&label=" alt="Crafty Commerce" />
@@ -56,7 +70,12 @@
 <br>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h2 align="center">Connect with me</h2>
+<h2 align="center">
+    Connect with me
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
+    <a/>
+</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/sumitsharma002/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
@@ -69,9 +88,28 @@
     </a>
 </p>
 <br>
+    
+<!----------------------------------- Support Section ------------------------------------>
+<h2 align="center">
+    Support me
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210718068-0b63b270-1563-45c0-801f-d666721c5d5c.png" width="30" />  
+    <a/>
+</h2>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/sumitsharma02">
+        <img align="center" src="https://img.shields.io/badge/Buy me a Beer-FFDd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="https://www.buymeacoffee.com/sumitsharma02" />
+    </a>
+</p>
+<br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center">
+    My GitHub Stats
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
+    <a/>
+</h2>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-sharma-02&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sumit-sharma-02" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="sumit-sharma-02" height="139" />
@@ -79,7 +117,12 @@
 <br>
 
 <!----------------------------------- My Repository Section ------------------------------------>
-<h2 align="center">My Repositories</h2>
+<h2 align="center">
+    My Repositories
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
+    <a/>
+</h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
