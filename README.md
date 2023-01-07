@@ -118,8 +118,11 @@
     <a/>
 </h2>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-sharma-02&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sumit-sharma-02" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="sumit-sharma-02" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&hide=Shell&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
 </p>
 <br>
 
