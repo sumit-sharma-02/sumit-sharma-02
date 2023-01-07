@@ -140,7 +140,9 @@
     <a href="https://github.com/sumit-sharma-02/tikkaway">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/countdown-timer">
+</p>
+<p align="center">
+     <a href="https://github.com/sumit-sharma-02/countdown-timer">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
     </a>
 </p>
