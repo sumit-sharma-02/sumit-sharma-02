@@ -74,6 +74,9 @@
     <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=New Year Countdown&color=664A21&logo=timescale&logoColor=FFFFFF&label=" alt="New Year Countdown" />
     </a>
+    <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
+    </a>
 </p>
 <br>
 
@@ -122,7 +125,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&hide=Shell&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
 </p>
 <br>
 
@@ -142,7 +145,10 @@
     </a>
 </p>
 <p align="center">
-     <a href="https://github.com/sumit-sharma-02/countdown-timer">
+    <a href="https://github.com/sumit-sharma-02/countdown-timer">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/mean-agency">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
     </a>
 </p>
