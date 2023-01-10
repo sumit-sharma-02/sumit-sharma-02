@@ -145,7 +145,7 @@
 
 <!----------------------------------- My Repository Section ------------------------------------>
 <h2 align="center">
-    My Repositories
+    My Top Repositories
     <a>
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
     <a/>
