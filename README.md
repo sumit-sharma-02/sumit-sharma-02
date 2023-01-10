@@ -12,7 +12,7 @@
     ⦿ &nbsp;&nbsp;I'm a Full Stack Web Developer who has worked in both MERN and MEAN stack. I love to code in best ways possible.
 </h3>
 <h3 align="center">
-    ⦿ &nbsp;&nbsp;Currently working at Infosys as Operations Executive.
+    ⦿ &nbsp;&nbsp;Looking for more opportunities to work.
 </h3>
     <p align="center">
       <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
