@@ -73,7 +73,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tikkaway&color=FF6C37&logo=justeat&logoColor=FFFFFF&label=" alt="Tikkaway" />
     </a>
     <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown Timer&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
     </a>
     <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
