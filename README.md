@@ -103,8 +103,7 @@
 <!----------------------------------- Support Section ------------------------------------>
 <h2 align="center">
     Support me
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
-    <a/>
+    <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
 </h2>
 <p align="center">
     <a href="https://www.buymeacoffee.com/sumitsharma02">
@@ -132,6 +131,18 @@
 </p>
 <br>
 
+<!----------------------------------- Stack Overflow Stats Section ------------------------------------>
+<h2 align="center">
+    My Stack Overflow Stats
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <img align="center" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17976599&show_icons=true&theme=dark" alt="Stack Overflow Stats" />
+</p>
+<br>
+
 <!----------------------------------- My Repository Section ------------------------------------>
 <h2 align="center">
     My Repositories
@@ -154,4 +165,14 @@
     <a href="https://github.com/sumit-sharma-02/mean-agency">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
     </a>
+</p>
+<br>
+<h2 align="center">
+    My Contributions on GitHub
+    <a>
+    <img align="center" src="https://user-images.githubusercontent.com/52236473/211459238-0e2284bc-b22f-410f-aa65-1ba1883c6983.png" width="30" />
+    </a>   
+</h2>
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/sumit-sharma-02/sumit-sharma-02/output/github-contribution-grid-snake.svg" alt="Stack Overflow Stats"
 </p>
