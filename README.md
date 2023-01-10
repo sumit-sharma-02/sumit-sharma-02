@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
     <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
+    <img src="https://img.shields.io/badge/Firebase-5f6368?style=for-the-badge&logo=firebase&logoColor=FFCC30" alt="Firebase" />
     <img src="https://img.shields.io/badge/JSON Web Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Token" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -72,7 +73,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tikkaway&color=FF6C37&logo=justeat&logoColor=FFFFFF&label=" alt="Tikkaway" />
     </a>
     <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=New Year Countdown&color=664A21&logo=timescale&logoColor=FFFFFF&label=" alt="New Year Countdown" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
     </a>
     <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
