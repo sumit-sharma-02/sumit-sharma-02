@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi! <img src="https://user-images.githubusercontent.com/52236473/210699162-fc0b3c17-de69-43bf-a66f-69fe4a9e0999.png" width="30">
-    I'm Sumit Sharma 
+    I'm Sumit Sharma, Welcome to my GitHub profile
     <a> 
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210713338-1402a455-7c8d-47af-b79d-2597b7a7b1bd.png" width="30">
     </a>
@@ -81,38 +81,6 @@
 </p>
 <br>
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
-<h2 align="center">
-    Connect with me
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
-    <a/>
-</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/sumitsharma002/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
-    </a>
-    <a href="https://twitter.com/sumitsharma002">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/sumitsharma002" />
-    </a>
-    <a title="sumitsharma9968@gmail.com" href="mailto:sumitsharma9968@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitsharma9968@gmail.com" />
-    </a>
-</p>
-<br>
-    
-<!----------------------------------- Support Section ------------------------------------>
-<h2 align="center">
-    Support me
-    <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
-</h2>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/sumitsharma02">
-        <img align="center" src="https://img.shields.io/badge/Buy me a Beer-FFDd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="https://www.buymeacoffee.com/sumitsharma02" />
-    </a>
-</p>
-<br>
-
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center">
     My GitHub Stats
@@ -128,18 +96,6 @@
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
-</p>
-<br>
-
-<!----------------------------------- Stack Overflow Stats Section ------------------------------------>
-<h2 align="center">
-    My Stack Overflow Stats
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
-    <a/>
-</h2>
-<p align="center">
-    <img align="center" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17976599&show_icons=true&theme=dark" alt="Stack Overflow Stats" />
 </p>
 <br>
 
@@ -174,5 +130,49 @@
     </a>   
 </h2>
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/sumit-sharma-02/sumit-sharma-02/output/github-contribution-grid-snake.svg" alt="Stack Overflow Stats"
+    <img align="center" src="https://raw.githubusercontent.com/sumit-sharma-02/sumit-sharma-02/output/github-contribution-grid-snake.svg" alt="Snake Animation for GitHub Contributions"
 </p>
+<br>
+
+<!----------------------------------- Stack Overflow Stats Section ------------------------------------>
+<h2 align="center">
+    My Stack Overflow Stats
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <img align="center" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17976599&show_icons=true&theme=dark" alt="Stack Overflow Stats" />
+</p>
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+<h2 align="center">
+    Connect with me
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sumitsharma002/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
+    </a>
+    <a href="https://twitter.com/sumitsharma002">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/sumitsharma002" />
+    </a>
+    <a title="sumitsharma9968@gmail.com" href="mailto:sumitsharma9968@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitsharma9968@gmail.com" />
+    </a>
+</p>
+<br>
+    
+<!----------------------------------- Support Section ------------------------------------>
+<h2 align="center">
+    Support me
+    <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
+</h2>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/sumitsharma02">
+        <img align="center" src="https://img.shields.io/badge/Buy me a Beer-FFDd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="https://www.buymeacoffee.com/sumitsharma02" />
+    </a>
+</p>
+<br>
