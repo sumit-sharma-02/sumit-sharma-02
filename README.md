@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi! <img src="https://user-images.githubusercontent.com/52236473/210699162-fc0b3c17-de69-43bf-a66f-69fe4a9e0999.png" width="30">
-    I'm Sumit Sharma, Welcome to my GitHub profile
+    I'm Sumit Sharma
     <a> 
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210713338-1402a455-7c8d-47af-b79d-2597b7a7b1bd.png" width="30">
     </a>
