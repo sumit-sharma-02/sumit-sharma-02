@@ -11,9 +11,6 @@
 <h3 align="center">
     ⦿ &nbsp;&nbsp;I'm a Full Stack Web Developer who has worked in both MERN and MEAN stack. I love to code in best ways possible.
 </h3>
-<h3 align="center">
-    ⦿ &nbsp;&nbsp;Looking for more opportunities to work.
-</h3>
     <p align="center">
       <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
         <img src="https://komarev.com/ghpvc/?username=sumit-sharma-02&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
