@@ -1,24 +1,19 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi! <img src="https://user-images.githubusercontent.com/52236473/210699162-fc0b3c17-de69-43bf-a66f-69fe4a9e0999.png" width="30">
-    I'm Sumit Sharma
-    <a> 
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210713338-1402a455-7c8d-47af-b79d-2597b7a7b1bd.png" width="30">
-    </a>
-</h1>
+<p align="center">
+    
+![GitHub Cover](https://user-images.githubusercontent.com/52236473/216836058-42e481ae-f745-46af-9407-4fb20800d7ec.png)
+    
+</p>
 
 <!----------------------------------- About Section ------------------------------------>
-<h3 align="center">
-    ⦿ &nbsp;&nbsp;I'm a Full Stack Web Developer who has worked in both MERN and MEAN stack. I love to code in best ways possible.
-</h3>
-    <p align="center">
+<p align="center">
       <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
         <img src="https://komarev.com/ghpvc/?username=sumit-sharma-02&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
       </a>
       <a href="https://stackoverflow.com/users/17976599/">
         <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17976599?style=for-the-badge&logo=stackoverflow&logoColor=orange&color=orange&label=Stack+Overflow">
       </a>
-    </p>
+</p>
 <br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
