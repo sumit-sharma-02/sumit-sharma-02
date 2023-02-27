@@ -66,11 +66,17 @@
     <a href="https://github.com/sumit-sharma-02/tikkaway" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tikkaway&color=FF6C37&logo=justeat&logoColor=FFFFFF&label=" alt="Tikkaway" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown Timer&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
-    </a>
     <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/portfolio" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=pink&logo=portfolio&logoColor=FFFFFF&label=" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Little Lemon Restaurant&color=yello&logo=lemon&logoColor=FFFFFF&label=" alt="Little Lemon Restaurant" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown Timer&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
     </a>
 </p>
 <br>
@@ -102,19 +108,27 @@
 </h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
     <a href="https://github.com/sumit-sharma-02/tikkaway">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/countdown-timer">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
-    </a>
     <a href="https://github.com/sumit-sharma-02/mean-agency">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="sumit-sharma-02" />
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
     </a>
+    <a href="https://github.com/sumit-sharma-02/portfolio">
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
+    </a>
+</p>
+<p align="center">    
+    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant">
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=little-lemon-restaurant&locale=en&border_radius=0&theme=dark" alt="little-lemon-restaurant" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/countdown-timer">
+        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="countdown-timer" />
+    </a>    
 </p>
 <br>
 <h2 align="center">
