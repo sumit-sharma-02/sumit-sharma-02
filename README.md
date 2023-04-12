@@ -61,7 +61,7 @@
 </h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/airbnb" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb Clone&color=f43f5e&logo=stencyl&logoColor=FFFFFF&label=" alt="Airbnb clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb Clone&color=f43f5e&logo=airbnb&logoColor=FFFFFF&label=" alt="Airbnb clone" />
     </a>
     <a href="https://github.com/sumit-sharma-02/portfolio" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=pink&logo=portfolio&logoColor=FFFFFF&label=" alt="Portfolio" />
