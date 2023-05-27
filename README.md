@@ -95,13 +95,13 @@
     <a/>
 </h2>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats-git-main-sumit-sharma-02.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats-git-main-sumit-sharma-02.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
 </p>
 <br>
 
@@ -114,7 +114,7 @@
 </h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
+        <img align="center" src="https://github-readme-stats-git-main-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
     <a href="https://github.com/sumit-sharma-02/tikkaway">
         <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
