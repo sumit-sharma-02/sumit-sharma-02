@@ -101,7 +101,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
 </p>
 <br>
 
@@ -114,26 +114,26 @@
 </h2>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
     <a href="https://github.com/sumit-sharma-02/tikkaway">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/sumit-sharma-02/mean-agency">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
     </a>
     <a href="https://github.com/sumit-sharma-02/portfolio">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
     </a>
 </p>
 <p align="center">    
     <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=little-lemon-restaurant&locale=en&border_radius=0&theme=dark" alt="little-lemon-restaurant" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=little-lemon-restaurant&locale=en&border_radius=0&theme=dark" alt="little-lemon-restaurant" />
     </a>
     <a href="https://github.com/sumit-sharma-02/countdown-timer">
-        <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="countdown-timer" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=countdown-timer&locale=en&border_radius=0&theme=dark" alt="countdown-timer" />
     </a>    
 </p>
 <br>
