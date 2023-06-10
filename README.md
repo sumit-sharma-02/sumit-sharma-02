@@ -95,13 +95,13 @@
     <a/>
 </h2>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-sumit-sharma-02.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
 </p>
 <br>
 
