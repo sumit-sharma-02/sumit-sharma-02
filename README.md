@@ -114,27 +114,19 @@
     <a/>
 </h2>
 <p align="center">
+    <a href="https://github.com/sumit-sharma-02/mean-agency">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=little-lemon-restaurant&locale=en&border_radius=0&theme=dark" alt="little-lemon-restaurant" />
+    </a>
+    <a href="https://github.com/sumit-sharma-02/portfolio">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
+    </a>
+</p>
+<p align="center">
     <a href="https://github.com/sumit-sharma-02/crafty-commerce">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
     <a href="https://github.com/sumit-sharma-02/airbnb">
-        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=airbnb&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/sumit-sharma-02/spacex-capsules">
-        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=spacex-capsules&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
-    </a>
-    <a href="https://github.com/sumit-sharma-02/tikkaway">
-        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/sumit-sharma-02/mean-agency">
-        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
-    </a>
-    <a href="https://github.com/sumit-sharma-02/portfolio">
-        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=airbnb&locale=en&border_radius=0&theme=dark" alt="airbnb" />
     </a>
 </p>
 <br>
@@ -178,16 +170,3 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitsharma9968@gmail.com" />
     </a>
 </p>
-<br>
-    
-<!----------------------------------- Support Section ------------------------------------>
-<h2 align="center">
-    Support me
-    <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
-</h2>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/sumitsharma02">
-        <img align="center" src="https://img.shields.io/badge/Buy me a Beer-FFDd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="https://www.buymeacoffee.com/sumitsharma02" />
-    </a>
-</p>
-<br>
