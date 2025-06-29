@@ -61,8 +61,8 @@
 </h2>
         
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/airbnb" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb-Clone&color=f43f5e&logo=airbnb&logoColor=FFFFFF&label=" alt="Airbnb clone" />
+    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Little-Lemon-Restaurant&color=yello&logo=lemon&logoColor=FFFFFF&label=" alt="Little Lemon Restaurant" />
     </a>
     <a href="https://github.com/sumit-sharma-02/portfolio" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=pink&logo=portfolio&logoColor=FFFFFF&label=" alt="Portfolio" />
@@ -70,17 +70,17 @@
     <a href="https://github.com/sumit-sharma-02/crafty-commerce" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Crafty-Commerce&color=E02746&logo=stencyl&logoColor=FFFFFF&label=" alt="Crafty Commerce" />
     </a>
+    <a href="https://github.com/sumit-sharma-02/airbnb" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb-Clone&color=f43f5e&logo=airbnb&logoColor=FFFFFF&label=" alt="Airbnb clone" />
+    </a>
     <a href="https://github.com/sumit-sharma-02/spacex-capsules" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpaceX-Capsules&color=orange&logo=spacex&logoColor=FFFFFF&label=" alt="SpaceX Capsules" />
-    </a>
-    <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean-Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
     </a>
     <a href="https://github.com/sumit-sharma-02/tikkaway" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tikkaway&color=FF6C37&logo=justeat&logoColor=FFFFFF&label=" alt="Tikkaway" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Little-Lemon-Restaurant&color=yello&logo=lemon&logoColor=FFFFFF&label=" alt="Little Lemon Restaurant" />
+    <a href="https://github.com/sumit-sharma-02/mean-agency" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mean-Agency&color=red&logo=angular&logoColor=FFFFFF&label=" alt="MEAN Agency" />
     </a>
     <a href="https://github.com/sumit-sharma-02/countdown-timer" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Countdown-Timer&color=yellow&logo=timescale&logoColor=white&label=" alt="New Year Countdown" />
